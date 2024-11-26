@@ -1,6 +1,7 @@
-gradio==3.39.0
-torch==2.0.1
-diffusers==0.19.0  # Use a version known to work with huggingface_hub
-huggingface_hub==0.12.1  # Compatible version with diffusers
-transformers==4.31.0
-Pillow==9.5.0
+gradio
+torch
+diffusers
+huggingface_hub
+transformers
+Pillow
+
